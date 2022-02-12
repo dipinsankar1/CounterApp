@@ -1,6 +1,9 @@
 # counter_app
 
 A new Flutter project.
+
+
+
  # CounterApp created with Android studio.
  # Three sub pages (Counter1,Counter2,Counter3)
  # States managed with provider.
@@ -10,6 +13,14 @@ A new Flutter project.
  # Save/maintain the counters of each page on Firebase Firestore
  #  Reopen the app, it displays the counter, corresponding to respective page, from database. The counter defaults to 0.
  # Appbar refresh icon used for reset counter.
+
+ ## Requirments
+ * Any Operating System (ie. MacOS X, Linux, Windows)
+ * Any IDE with Flutter SDK installed (ie. Android Studio, VSCode,IntelliJ etc)
+ * Clone the repository with the 'clone' command, or just download the zip.
+ * Install dependencies from pubspec.yaml by running 'flutter packages get' from the project root.
+ * You are done with installing the packages, the errors are corrected and you can run the project.
+
 
 ## Getting Started
 
