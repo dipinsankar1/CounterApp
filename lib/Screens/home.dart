@@ -4,7 +4,6 @@ import 'package:counter_app/Screens/counter2.dart';
 import 'package:counter_app/Screens/counter3.dart';
 import 'package:counter_app/main.dart';
 import 'package:provider/provider.dart';
-import 'package:cloud_firestore/cloud_firestore.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
